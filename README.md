@@ -1,5 +1,5 @@
 ```
-wget -O Bliss-Go-v15.9-x86_64-OFFICIAL-gapps-20240115.iso "https://altushost-swe.dl.sourceforge.net/project/blissos-x86/Official/BlissOS15/Gapps/Go/Bliss-Go-v15.9-x86_64-OFFICIAL-gapps-20240115.iso?viasf=1*
+wget -O Bliss-Go-v15.9-x86_64-OFFICIAL-gapps-20240115.iso "https://altushost-swe.dl.sourceforge.net/project/blissos-x86/Official/BlissOS15/Gapps/Go/Bliss-Go-v15.9-x86_64-OFFICIAL-gapps-20240115.iso?viasf=1"
 ```
 ```
 wget https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-amd64.tgz
