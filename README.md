@@ -17,7 +17,7 @@ rm -rf ngrok-v3-stable-linux-amd64.tgz
 ./ngrok tcp 5900
 ```
 ```
-sudo apt update && apt install qemu-kvm
+sudo apt update && sudo apt upgrade && sudo apt install qemu-kvm
 ```
 ```
 sudo qemu-img create -f raw 1.img 64G
